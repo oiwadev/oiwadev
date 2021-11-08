@@ -4,9 +4,9 @@
 
 ## **Languages I know/am learning**
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png"></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png">
 
 <br><br>
 <a href="https://github.com/oiwadev">
@@ -19,5 +19,14 @@
 </a>
 
 <br><br>
+
+<a href="https://github.com/oiwadev" target="_blank">
+    <img alt="follows" src="https://img.shields.io/github/followers/oiwadev?label=Github%20followers&style=for-the-badge">
+</a>
+<br><br>
+<a href="https://github.com/oiwadev" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=oiwadev&label=Views&color=27A70B&style=flat-square" alt="views" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=oiwadev&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=77792331)
