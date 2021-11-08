@@ -6,7 +6,7 @@
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/js.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <br><br>
 <a href="https://github.com/oiwadev">
@@ -28,5 +28,4 @@
     <img src="https://komarev.com/ghpvc/?username=oiwadev&label=Views&color=27A70B&style=flat-square" alt="views" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=oiwadev&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=77792331)
